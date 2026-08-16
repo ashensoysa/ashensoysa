@@ -1,5 +1,10 @@
 # 👋 Welcome to My GitHub
 
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.5d072666-3b21-42dd-b480-878a3e62c6c8.png" alt="Ashen GitHub Logo" width="400"/>
+</p>
+
+
 Hi there, I'm **Ashen Soysa** — a passionate Software Engineering student and developer.  
 I love building **scalable solutions** across **Web, IoT, AI, and Game Development**, with a focus on creative dashboards and real-world applications.
 
