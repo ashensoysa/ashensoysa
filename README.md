@@ -38,7 +38,3 @@ I specialize in **UI/UX dashboard design** with:
 
 ## 🌐 Let's Connect
 - 💼 [LinkedIn](www.linkedin.com/in/ashen-soysa-b1a943320)    
-
-
-can u make this more proffessional by adding the languag
-ols logo
